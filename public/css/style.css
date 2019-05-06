@@ -1,0 +1,20 @@
+/*HEADER*/
+.header{
+	box-shadow: 5px 10px 8px 10px #888888;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+}
+
+.headerImage{
+	background-image: url(../img/header.jpg);
+	height: 15rem;
+	background-size: cover;
+	background-position: center center;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+}
+
+.bg-primary{
+	background-color: #3E5E55 !important;
+
+}
